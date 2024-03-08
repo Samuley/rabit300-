@@ -1,0 +1,26 @@
+# Úvod do kryptomien a blockchainov
+
+Vitajte v nášom projekte o kryptomene a blockchainoch!
+
+## Čo sú kryptomeny?
+
+Kryptomeny sú digitálne alebo virtuálne meny, ktoré používajú kryptografiu pre zabezpečenie transakcií a riadenie vydávania nových jednotiek. Sú decentralizované a nezávislé od centrálnej banky alebo vlády.
+
+Najznámejšou kryptomenou je Bitcoin, ktorý bol vytvorený v roku 2009. Ďalšie populárne kryptomeny zahŕňajú Ethereum, Ripple, Litecoin a mnoho ďalších.
+
+## Čo je blockchain?
+
+Blockchain je decentralizovaný a distribuovaný systém záznamu transakcií. Skladá sa z blokov dát, ktoré sú spojené do reťazca pomocou kryptografických techník. Každý blok obsahuje hash predchádzajúceho bloku, čím sa vytvára nepretržitá a nezmeniteľná histórie transakcií.
+
+Blockchain sa používa nielen v kryptomenách, ale aj v rôznych odvetviach, ako sú financie, dodávateľský reťazec, zdravotníctvo a mnoho ďalších.
+
+## Cieľ tohto projektu
+
+Cieľom tohto projektu je poskytnúť základné informácie o kryptomene a blockchainoch a ponúknuť príklady kódu, tutoriály a ďalší obsah, ktorý vám pomôže porozumieť ich fungovaniu a využitiu.
+
+## Spolupráca
+
+Ak máte záujem prispieť k tomuto projektu, neváhajte otvoriť pull request s vašimi návrhmi alebo problémami. Vítame každú formu spolupráce!
+
+Ďakujeme, že ste si vybrali tento projekt, a tešíme sa na vaše príspevky!
+
